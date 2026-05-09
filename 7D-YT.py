@@ -102,7 +102,7 @@ class App(ctk.CTk):
             text_color=TEXT_WHITE
         ).pack(side="left")
 
-        # Appearance toggle
+        # this does not work. i want to kms
         self.mode_btn = ctk.CTkButton(
             header, text="☀  Light", width=90, height=32,
             fg_color=BG_CARD2, hover_color=BORDER,
@@ -219,7 +219,7 @@ class App(ctk.CTk):
         )
         self.format_seg.grid(row=2, column=0, padx=20, pady=(0, 16), sticky="w")
 
-        # Resolution
+        # Res
         res_col = ctk.CTkFrame(settings_card, fg_color="transparent")
         res_col.grid(row=1, column=1, rowspan=2, padx=20, pady=(0, 16), sticky="nsew")
 
@@ -317,7 +317,7 @@ class App(ctk.CTk):
         )
         self.dl_btn.grid(row=4, column=0, pady=(4, 24), sticky="ew")
 
-        # ── Log ──
+        # ── Logss ──
         log_card = ctk.CTkFrame(scroll, fg_color=BG_CARD, corner_radius=16)
         log_card.grid(row=5, column=0, pady=(0, 8), sticky="ew")
         log_card.grid_columnconfigure(0, weight=1)
@@ -348,7 +348,7 @@ class App(ctk.CTk):
         self.log_box.grid(row=1, column=0, padx=16, pady=(8, 16), sticky="ew")
         self.log_box.configure(state="disabled")
 
-    # ── Actions ───────────────────────────────────────────────────────────────
+    # ─────────────────────────────────────────────────────────────────
     def _toggle_mode(self):
         current = ctk.get_appearance_mode()
         if current == "Dark":
@@ -405,7 +405,7 @@ class App(ctk.CTk):
         self.res_menu.configure(values=labels)
         self.res_var.set(labels[0])
 
-    # ── Fetch video info ──────────────────────────────────────────────────────
+    # ── Fetch vid info ──────────────────────────────────────────────────────
     def _fetch_info(self):
         url = self.url_var.get().strip()
         if not url:
@@ -455,14 +455,14 @@ class App(ctk.CTk):
         dur_str = f"{hrs}:{mins:02d}:{secs:02d}" if hrs else f"{mins}:{secs:02d}"
         views_str = f"{views:,}" if views else "N/A"
 
-        # Reset thumbnail while loading
+        # reset thumbnail
         self.thumb_label.configure(image="", text="Loading thumbnail…")
 
-        # Pick best thumbnail URL
+        # Pick thumbnail URL
         thumb_url = None
         thumbnails = info.get("thumbnails")
         if thumbnails:
-            # prefer the largest one (usually last)
+            # prefer the largest one
             for t in reversed(thumbnails):
                 u = t.get("url", "")
                 if u.startswith("http"):
