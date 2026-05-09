@@ -1,4 +1,4 @@
-# YT Downloader - Python dependencies
+#7downloader - Python dependencies
 customtkinter>=5.2.0
 yt-dlp>=2024.1.1
 Pillow>=10.0.0
