@@ -7,3 +7,6 @@ steps
 1. go to the [Releases](https://github.com/IMADETHISACCOUNTFORSUFFERING/7D-YT/releases/tag/v1) page
 2. download the `SevenDownloaderSetupyaay.exe`
 3. run the installer and follow the prompts i guess
+
+note: The installer will automatically attempt to set up ffmpeg on your system to enable MP3 conversion, This may briefly open a command prompt window
+also if it did not get downloaded just download it yourself [here](https://ffmpeg.org/download.html)
