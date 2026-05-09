@@ -8,5 +8,11 @@ steps
 2. download the `SevenDownloaderSetupyaay.exe`
 3. run the installer and follow the prompts i guess
 
+   ## On linux
+   
+   ```
+   git clone https://github.com/IMADETHISACCOUNTFORSUFFERING/7D-YT.git
+   ```
+
 note: The installer will automatically attempt to set up ffmpeg on your system to enable MP3 conversion, This may briefly open a command prompt window
 also if ffmpeg for whatever reason fails to be installed and it keeps failing, just download it yourself [here](https://ffmpeg.org/download.html) should be easy
