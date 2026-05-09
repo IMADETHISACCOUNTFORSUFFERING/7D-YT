@@ -40,5 +40,13 @@ ffmpeg -version
 
  ```
 
+run the thing
+ ```
+python 7D-YT.py
+ ```
+or again, figure out how to run it 
+
+ill update this soon and make it easier
+
 AGAIN note: The installer will automatically attempt to set up ffmpeg on your system to enable MP3 conversion, This may briefly open a command prompt window
 also if ffmpeg for whatever reason fails to be installed and it keeps failing, just download it yourself [here](https://ffmpeg.org/download.html) should be easy
