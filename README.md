@@ -13,6 +13,25 @@ steps
    ```
    git clone https://github.com/IMADETHISACCOUNTFORSUFFERING/7D-YT.git
    ```
+then
+ ```
+cd 7D-YT
+ ```
+then
+ ```
+pip install yt-dlp
+ ```
+then (figure out how to install it on ur distro.)
+ ```
+#arch
+sudo pacman -S ffmpeg
+#debian
+sudo apt install ffmpeg
+#fedora
+sudo dnf install ffmpeg
+#snap / any distro
+sudo snap install ffmpeg
+ ```
 
 note: The installer will automatically attempt to set up ffmpeg on your system to enable MP3 conversion, This may briefly open a command prompt window
 also if ffmpeg for whatever reason fails to be installed and it keeps failing, just download it yourself [here](https://ffmpeg.org/download.html) should be easy
