@@ -2,7 +2,7 @@
 7D is a youtube downloader, however it can also download videos from other social medias such as Dailymotion, Instagram, Twitter, etc...
 
 
-i think this does not work so, maybe try a better tool like stacher7?
+
 ## Download
 steps
 1. go to the [Releases](https://github.com/IMADETHISACCOUNTFORSUFFERING/7D-YT/releases/tag/v1) page
@@ -12,10 +12,9 @@ steps
 also if ffmpeg for whatever reason fails to be installed and it keeps failing, just download it yourself [here](https://ffmpeg.org/download.html) should be easy
 
    ## On linux
-   
-   ```
+```
    git clone https://github.com/IMADETHISACCOUNTFORSUFFERING/7D-YT.git
-   ```
+```
 then
  ```
 cd 7D-YT
