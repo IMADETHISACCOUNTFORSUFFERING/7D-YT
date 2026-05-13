@@ -1,5 +1,7 @@
 # 7D-YT
-7D is a youtube downloader, however it can also download videos from other social medias such as Dailymotion, Instagram, Twitter, etc...
+7D-YT has YT on its name,, however it Supports videos from other social medias such as Dailymotion, Instagram, Twitter, etc...
+It is essentially a Universal video Downloader since it uses yt-dlp as well as ffmpeg for downloading Audio files and other formats!
+
 
 
 
