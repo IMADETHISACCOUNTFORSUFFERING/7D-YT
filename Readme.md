@@ -6,7 +6,6 @@ It is essentially a Universal video Downloader since it uses yt-dlp as well as f
 ## Features
 
 - Easy to use interface
-- Format Selection: Easily choose between 
 - Resolution Control: Select your preferred resolution
 - Visual Progress: A clear download progress bar and completion indicator
 - Automatic Setup: The installer attempts to configure ffmpeg for you automatically.
