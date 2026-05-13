@@ -4,7 +4,7 @@
 
 #define MyAppName "7D-YT"
 #define MyAppVersion "1.0.0"
-#define MyAppPublisher "kkyone"
+#define MyAppPublisher "macaw"
 #define MyAppExeName "7D-YT.exe"
 
 [Setup]
