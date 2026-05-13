@@ -4,7 +4,6 @@ It is essentially a Universal video Downloader since it uses yt-dlp as well as f
 
 
 
-
 ## Download
 steps
 1. go to the [Releases](https://github.com/IMADETHISACCOUNTFORSUFFERING/7D-YT/releases/tag/v1) page
