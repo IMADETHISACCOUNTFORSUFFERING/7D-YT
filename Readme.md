@@ -19,7 +19,9 @@ It is essentially a Universal video Downloader since it uses yt-dlp as well as f
  3. Run the installer and follow the prompts.
 
 - Note: During installation, a command prompt may briefly open while the installer sets up ffmpeg. If this automatic setup fails, you will need to install ffmpeg manually [here](https://ffmpeg.org/download.html).
+  
 ![Divider](hr.png)
+
 ## Linux (Manual Build)
 
 If you wish to run the application from source on Linux, follow these steps:
