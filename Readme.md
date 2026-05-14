@@ -61,7 +61,8 @@ ffmpeg -version
  ```
 python 7D-YT.py
  ```
- ---
+![Divider](hr.png)
+
 ## Troubleshooting
 
 - FFmpeg missing: If the app fails to convert to MP3, verify that `ffmpeg -version` works in your terminal.
