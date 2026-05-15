@@ -733,7 +733,7 @@ def which_ytdlp():
 YTDLP = which_ytdlp()
 
 
-# ...because i'm young arrogant and hate everything you stand for
+# ...
 
 class FfmpegInstaller(QThread):
     progress  = Signal(float, str)   # !1
