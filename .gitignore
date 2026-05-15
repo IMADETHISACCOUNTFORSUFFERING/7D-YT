@@ -1,4 +1,5 @@
 # PyInstaller directories
 build/
 dist/
+hr.png
 *.spec
