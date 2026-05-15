@@ -16,7 +16,7 @@ It is essentially a Universal video Downloader since it uses yt-dlp as well as f
 ## Installation (Windows)
  1. Navigate to the [Releases](https://github.com/uminaoshii/7D-YT/releases/tag/v1) page
 
- 2. Download `SevenDownloaderSetupyaay.exe`
+ 2. Download `7D-YT.exe`
 
  3. Run the installer and follow the prompts.
 
