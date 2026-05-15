@@ -1,9 +1,0 @@
-#7downloader - Python dependencies
-customtkinter>=5.2.0
-yt-dlp>=2024.1.1
-Pillow>=10.0.0
-
-# ffmpeg must be installed separately on your system!!!!!!!!!!!!!!!!!!!1!!
-#   Windows : winget install Gyan.FFmpeg   (or download from https://ffmpeg.org/download.html)
-#   macOS   : brew install ffmpeg
-#   Linux   : sudo apt install ffmpeg  /  sudo dnf install ffmpeg
