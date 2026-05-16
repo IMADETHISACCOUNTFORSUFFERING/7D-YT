@@ -5,6 +5,7 @@ It is essentially a Universal video Downloader since it uses [yt-dlp](https://gi
 
 ![Toucan mascot](img/t.png)
 
+
 with a stupid toucan as mascot.
  
 ![Divider](hr.png)
@@ -74,6 +75,9 @@ python 7D-YT.py
 - FFmpeg missing: If the app fails to convert to MP3, verify that `ffmpeg -version` works in your terminal.
 - Beta Status: This project is currently a functional test. If you encounter bugs, please open an issue!
 
+## Screenshots
 
+![1](img/1.png)
+![2](img/2.png)
 
 ## ejhghogshofgnlajhgo;h;skfjg; 
