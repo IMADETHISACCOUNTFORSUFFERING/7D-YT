@@ -1,6 +1,6 @@
 
 # 7D-YT
-7D-YT it has YT on its name,, however it Supports videos from other social medias such as Dailymotion, Instagram, Twitter, etc...
+7D-YT may have YT on its name,, however it Supports videos from other social medias such as Dailymotion, Instagram, Twitter, etc...
 It is essentially a Universal video Downloader since it uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) as well as [ffmpeg](https://www.ffmpeg.org/download.html) for downloading Audio files and other formats!
 
 ![Toucan mascot](img/t.png)
@@ -43,6 +43,11 @@ cd 7D-YT
  ```
 pip install yt-dlp
  ```
+
+ ```
+pip install -r requirements.txt
+ ```
+
 3. Install ffmpeg in your distro
 - Arch Linux or Arch based Distros
  ```
