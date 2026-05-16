@@ -1,8 +1,12 @@
 
 # 7D-YT
-7D-YT has YT on its name,, however it Supports videos from other social medias such as Dailymotion, Instagram, Twitter, etc...
-It is essentially a Universal video Downloader since it uses yt-dlp as well as ffmpeg for downloading Audio files and other formats!
+7D-YT it has YT on its name,, however it Supports videos from other social medias such as Dailymotion, Instagram, Twitter, etc...
+It is essentially a Universal video Downloader since it uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) as well as [ffmpeg](https://www.ffmpeg.org/download.html) for downloading Audio files and other formats!
 
+![Toucan mascot](img/t.png)
+
+with a stupid toucan as mascot.
+ 
 ![Divider](hr.png)
 
 ## Features
@@ -70,6 +74,6 @@ python 7D-YT.py
 - FFmpeg missing: If the app fails to convert to MP3, verify that `ffmpeg -version` works in your terminal.
 - Beta Status: This project is currently a functional test. If you encounter bugs, please open an issue!
 
-![Divider](hr.png)
+
 
 ## ejhghogshofgnlajhgo;h;skfjg; 
