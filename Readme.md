@@ -85,7 +85,7 @@ you can download the thumbnail too sometimes it refuses to cooperate as you can 
 
 ![1](img/1.png)
 
-![Divider](hr.png)
+---
 
 ![2](img/2.png)
 
