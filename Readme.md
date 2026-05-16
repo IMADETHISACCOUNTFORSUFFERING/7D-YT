@@ -76,7 +76,7 @@ python 7D-YT.py
 - Beta Status: This project is currently a functional test. If you encounter bugs, please open an issue!
 
 ## Screenshots
-you cand ownload the thumbnail too sometimes it refuses to cooperate as you can see here, blame yt-dlp or else im going to cry :((
+you can download the thumbnail too sometimes it refuses to cooperate as you can see here, blame yt-dlp or else im going to cry :((
 
 ![1](img/1.png)
 
